@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-SPDX-FileCopyrightText: 2017 Ivan Čukić <ivan.cukic@kde.org>
-SPDX-FileCopyrightText: 2017 Kees vd Broek <cryptodude@libertymail.net>
-
-SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL
--->
 <ui version="4.0">
  <class>BackendChooserWidget</class>
  <widget class="QWidget" name="BackendChooserWidget">
